@@ -2,5 +2,5 @@
 
 Library Used - Floating.
 
-## PIPSwitcher widget and FloatingActionButton widget is used.
+## Widgets Used - PIPSwitcher & FloatingActionButton 
 
